@@ -2,6 +2,5 @@
 Báo cáo cuối kỳ nhóm 1 môn Phát triển ứng dụng học máy
 Demo
 
-![image](https://user-images.githubusercontent.com/107638860/203268665-4412d271-5aa4-4a73-90f6-80b7ea3de8f5.png)
-![image](https://user-images.githubusercontent.com/107638860/203268766-f4f5312a-cab8-4e40-b546-00beec13ddac.png)
-
+![image](https://user-images.githubusercontent.com/107638860/203270581-e4753435-db7c-4d65-a17c-b6fbdd9640e5.png)
+![image](https://user-images.githubusercontent.com/107638860/203270923-53827a5b-afae-49dd-a398-692b17bf2217.png)
